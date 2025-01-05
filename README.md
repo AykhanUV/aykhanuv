@@ -9,7 +9,6 @@ I'm a passionate software developer with a keen interest in developing scalable 
 - 👯 I’m looking to collaborate on innovative projects that make a difference.
 - 💬 Ask me about web development, Python, JavaScript, and more.
 - 📫 How to reach me: [aykhan.shikaliyev@hotmail.com](mailto:aykhan.shikaliyev@hotmail.com)
-- ⚡ Fun fact: I love playing chess and solving puzzles in my free time.
 
 ## 🛠️ Languages and Tools
 
