@@ -8,7 +8,7 @@ I'm a passionate software developer with a keen interest in developing scalable 
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 👯 I’m looking to collaborate on innovative projects that make a difference.
 - 💬 Ask me about web development, Python, JavaScript, and more.
-- 📫 How to reach me: [aykhan.shikaliyev@hotmail.com](mailto:aykhan.shikaliyev@hotmail.com)
+- 📫 How to reach me: [aykhanshikaliyev@hotmail.com](mailto:aykhanshikaliyev@hotmail.com)
 
 ## 🛠️ Languages and Tools
 
