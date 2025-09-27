@@ -10,6 +10,9 @@ I'm a passionate software developer with a keen interest in developing scalable 
 - 💬 Ask me about web development, Python, JavaScript, and more.
 - 📫 How to reach me: [aykhanshikaliyev@hotmail.com](mailto:aykhanshikaliyev@hotmail.com)
 
+## 💰 Donation
+If you enjoy my work you can always [donate](https://aether.mom/donation.txt) me!
+
 ## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -26,5 +29,3 @@ I'm a passionate software developer with a keen interest in developing scalable 
 ![AykhanUV's GitHub stats](https://github-readme-stats.vercel.app/api?username=AykhanUV&show_icons=true&theme=radical)
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch.
-
-If you enjoy my work you can always [donate](https://ko-fi.com/aykhanuv?utm_medium=email&utm_source=onboarding&utm_campaign=SharePage) me!
